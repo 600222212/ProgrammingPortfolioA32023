@@ -27,3 +27,11 @@ C++ game to take in a value and give back one for the volume and SA of a shape
 ![ShapeTester](https://github.com/600222212/ProgrammingPortfolioA32023/blob/gh-pages/images/Shapetester.png?raw=true)
 
 [source Code](https://github.com/600222212/ProgrammingPortfolioA32023/tree/gh-pages/src/ShapeTester/ShapeTesterMain)
+
+### Piglatin Converter
+
+C++ piglatin converter
+
+![Piglatin](https://github.com/600222212/ProgrammingPortfolioA32023/blob/gh-pages/images/Strings.png?raw=true)
+
+[Source Code](https://github.com/600222212/ProgrammingPortfolioA32023/blob/gh-pages/src/Strings%20(1).zip)
