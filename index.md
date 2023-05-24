@@ -35,3 +35,11 @@ C++ piglatin converter
 ![Piglatin](https://github.com/600222212/ProgrammingPortfolioA32023/blob/gh-pages/images/Strings.png?raw=true)
 
 [Source Code](https://github.com/600222212/ProgrammingPortfolioA32023/blob/gh-pages/src/Strings%20(1).zip)
+
+### Text Based Adventure
+
+C++ Text Based Adventure in command line
+
+![TextBasedAdventure](https://github.com/600222212/ProgrammingPortfolioA32023/blob/gh-pages/images/TextBasedAdventure.png?raw=true)
+
+[Source Code](https://github.com/600222212/ProgrammingPortfolioA32023/tree/gh-pages/C%2B%2BSRC/TextBasedAdventure%20(3))
