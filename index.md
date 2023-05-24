@@ -53,6 +53,8 @@ C++ Text Based Adventure in command line
 
 [Source Code](https://github.com/600222212/ProgrammingPortfolioA32023/tree/gh-pages/C%2B%2BSRC/TextBasedAdventure%20(3))
 
+[group Github] (https://github.com/DaCandyCorn/C-Text-Based-Adventure)
+
 ### Screensaver Proccessing
 
 Java Screen Saver
