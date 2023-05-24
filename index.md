@@ -36,6 +36,14 @@ C++ piglatin converter
 
 [Source Code](https://github.com/600222212/ProgrammingPortfolioA32023/blob/gh-pages/src/Strings%20(1).zip)
 
+### IO Tester
+
+C++ Input and Output tester
+
+![IOTester](https://github.com/600222212/ProgrammingPortfolioA32023/blob/gh-pages/images/IOtester.png?raw=true)
+
+[Source Code](https://github.com/600222212/ProgrammingPortfolioA32023/tree/gh-pages/C%2B%2BSRC/IOTester)
+
 ### Text Based Adventure
 
 C++ Text Based Adventure in command line
