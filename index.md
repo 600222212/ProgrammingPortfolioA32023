@@ -1,6 +1,7 @@
 # Welcome to Jax Jameson's Programming Portfolio
 
 ## Programming Semester 1 Projects (processing):
+### email [jaxjame9710@granitesd.org](jaxjame9710@granitesd.org)
 
 ### Calculator
 
