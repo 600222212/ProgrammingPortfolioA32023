@@ -1,7 +1,11 @@
 # Welcome to Jax Jameson's Programming Portfolio
 
-## Programming Semester 1 Projects (processing):
+## Programming Semester 1/2 Projects (processing and C++):
 ### email [jaxjame9710@granitesd.org](jaxjame9710@granitesd.org)
+
+### Certfications
+Java-test number 820
+C++- test number 822
 
 ### Calculator
 
